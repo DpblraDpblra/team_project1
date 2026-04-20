@@ -11,3 +11,4 @@ def plot_data(data):
 if __name__ == "__main__":
     data = [[1,2,3,4],[1,2,3,4]]
     plot_data(data)
+    print('End test')
